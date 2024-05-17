@@ -1,2 +1,1 @@
-<p>Personal website you can visit! </p>
-<p><a href="rileysuomi.com"> here</p>
+View my page at: https://www.rileysuomi.com
